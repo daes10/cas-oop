@@ -16,6 +16,7 @@ public class BremswegBerechnung {
 
         System.out.print("Bitte eine Zahl eingeben: ");
         float inputSpeed = input.nextFloat();
+        float test = 2 + 10;
 
         return BremswegBerechnung.getStoppingDist(inputSpeed);
     }
