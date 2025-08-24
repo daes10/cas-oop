@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Notendurchschnitt {
-    //    int defaultValue = 0;
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         float inputNote;
